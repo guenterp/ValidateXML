@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FundsXML xmlns="http://www.fundsxml.org/XMLSchema/3.2">
+    <Date>2015-12-29</Date>
+    <DataSupplier>
+        <Short>Gelion</Short>
+    </DataSupplier>
+    <UniqueDeliveryIdentification>20151229104547</UniqueDeliveryIdentification>
+    <Language>DE</Language>
+</FundsXML>
